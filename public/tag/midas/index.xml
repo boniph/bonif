@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MIDAS | Paulo Bonifácio</title>
+    <link>/tag/midas/</link>
+      <atom:link href="/tag/midas/index.xml" rel="self" type="application/rss+xml" />
+    <description>MIDAS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>MIDAS</title>
+      <link>/tag/midas/</link>
+    </image>
+    
+    <item>
+      <title>Alpha and beta diversity patterns of polychaete assemblages across the nodule province of the eastern Clarion-Clipperton Fracture Zone (equatorial Pacific)</title>
+      <link>/publication/bonifacioetal2020/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bonifacioetal2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New genera and species from the Equatorial Pacific provide phylogenetic insights into deep-sea Polynoidae (Annelida)</title>
+      <link>/publication/bonifacio-2018-ed/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bonifacio-2018-ed/</guid>
+      <description>&lt;p&gt;
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The London Workshop on the Biogeography and Connectivity of the Clarion-Clipperton Zone</title>
+      <link>/publication/glover-2016-ey/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/glover-2016-ey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Paulo Bonifácio</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 13:27:40 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Bonif.io is online</title>
+      <link>/post/sitelauching/</link>
+      <pubDate>Fri, 24 Apr 2020 13:27:40 +0200</pubDate>
+      <guid>/post/sitelauching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

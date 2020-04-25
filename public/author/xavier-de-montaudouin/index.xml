@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xavier de Montaudouin | Paulo Bonifácio</title>
+    <link>/author/xavier-de-montaudouin/</link>
+      <atom:link href="/author/xavier-de-montaudouin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xavier de Montaudouin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xavier de Montaudouin</title>
+      <link>/author/xavier-de-montaudouin/</link>
+    </image>
+    
+    <item>
+      <title>Recent discovery of Paranthura japonica Richardson, 1909 (Crustacea: Isopoda: Paranthuridae) in European marine waters (Arcachon Bay, Bay of Biscay</title>
+      <link>/publication/lavesque-2013-cc/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lavesque-2013-cc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
