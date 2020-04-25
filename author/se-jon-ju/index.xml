@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Se Jon Ju | Paulo Bonifácio</title>
+    <link>https://bonif.netlify.app/author/se-jon-ju/</link>
+      <atom:link href="https://bonif.netlify.app/author/se-jon-ju/index.xml" rel="self" type="application/rss+xml" />
+    <description>Se Jon Ju</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bonif.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Se Jon Ju</title>
+      <link>https://bonif.netlify.app/author/se-jon-ju/</link>
+    </image>
+    
+    <item>
+      <title>SEDIMENT MACROFAUNA – A synthesis of sediment macrofaunal biodiversity in the Clarion-Clipperton Zone</title>
+      <link>https://bonif.netlify.app/publication/smith-uk/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://bonif.netlify.app/publication/smith-uk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
