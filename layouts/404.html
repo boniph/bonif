@@ -1,10 +1,16 @@
 {{- define "main" -}}
 
+<img src="img/nedry.gif" alt="Smiley face" width="418" height="458" class="gif-container">
+
+<div class="gif-container">
+  <h1> "Ah ah ah... you didn't say the magic word"</h1>
+  <h2> Page not found :( please go back or look for a subject below:</h2>
+</div>
+  
+
 <div class="universal-wrapper pt-3">
-
-  <h1>{{ i18n "page_not_found" }}</h1>
-
-  {{/* Show search box if Academic's search engine is enabled. */}}
+  
+   {{/* Show search box if Academic's search engine is enabled. */}}
   {{ if eq site.Params.search.engine 1 }}
   <form class="d-flex align-items-center mb-3">
     <input name="q" type="search" class="form-control" placeholder="{{ i18n "search_placeholder" }}" autocomplete="off">

@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Bonif.io is online"
+title: "Bonif.io is born"
 subtitle: ""
 summary: " "
 authors: []
 tags: []
 categories: []
-date: 2020-04-24T13:27:40+02:00
-lastmod: 2020-04-24T13:27:40+02:00
+date: 2020-04-26T18:27:40+02:00
+lastmod: 2020-04-26T13:27:40+02:00
 featured: true
 draft: false
 
@@ -28,3 +28,14 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+## Hi, all.
+
+This is my first website for communications about recents scientifics discoveries and my publications.  
+Also, I expect it to be possibly a place to meet new people and make interesting discussions.  
+PLease, feel free to expose your thoughts and increase the quality of our discussions :D  
+
+
+Thank you for being here,  
+Polo
+
+#staytuned

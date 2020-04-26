@@ -25,15 +25,15 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
   
   # Background image.
    image = "so239.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-    image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+   image_position = "center"  # Options include `left`, `center` (default), or `right`.
+   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -45,8 +45,12 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-+++
 
+[design.spacing]
+ # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["25px", "0", "100px", "0"]
+
++++
 &nbsp;  
 ## I'm an independent marine biologist,  
 ## polychaete taxonomist,  
@@ -57,7 +61,7 @@ subtitle = ""
 ## read, teach, write and  
 ## try to understand ecological processes.
 &nbsp;  
-## Looking for help? Hire me as a [consultant](#experience).
+## Looking for help? Hire me as a [consultant](#expertise).
 
 ## You can follow me on [Twitter](#twitter) [@bonifs](https://twitter.com/bonifs) for great content and last scientific news.
 

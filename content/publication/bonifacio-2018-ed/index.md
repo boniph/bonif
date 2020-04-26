@@ -80,4 +80,3 @@ projects: ["MIDAS", "JPIO", "Remima"]
 slides: ""
 
 ---
-{{< icon name="r-project" pack="fab" >}} R

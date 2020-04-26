@@ -11,7 +11,7 @@ interval = 15000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "780px"
+height = "calc(100vh - 70px)"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -38,11 +38,11 @@ height = "780px"
 [[item]]
   title = "My expertise on <b>science</b> at your service <br><br>| Scientific Writing and Speaking |<br><br>"
   content = "I have presented a master and PhD thesis and<br> wrote several scientific articles and reports.<br><br> I can provide clear, timely, succinct or<br> detailed scientific writing in english :uk:, french :fr: or portuguese :brazil:. <br><br> I'm also available for conferences and teaching or pratical class. <br><br>"
-  align = "right"
+  align = "center"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "challenger.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.7 # Darken the image. Value in range 0-1.
+  overlay_filter = 0.8 # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -55,7 +55,7 @@ height = "780px"
 [[item]]
   title = "My expertise on <b>ecology</b> at your service <br><br>| Data Analysis |<br><br>"
   content = "During my ecological studies on shallow waters or deep sea, I made used of the open source software R to perform a variety of statistical analyses, including parametric and non-parametric univariate tests as well as metric and non-metric, constrained and unconstrained multivariate analyses. <br><br> I can do specific data analysis for your dataset.<br><br> "
-  align = "left"
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "data_analysis.jpg"  # Image path relative to your `static/img/` folder.
