@@ -16,7 +16,7 @@ publishDate: 2020-04-24T10:18:33+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Ecology and Evolution"
+publication: "*Ecology and Evolution*"
 publication_short: ""
 
 abstract: "Marine ecosystems worldwide are affected by both natural variation and human activities; to disentangle and understand their individual role in influencing the macrobenthic community composition is challenging. The relationship between interannual variability in atmospheric circulation, dictated by the climatic oscillation indices, and the benthic macrofauna composition was assessed at four sampling sites located in the Bay of Banyuls‐sur‐Mer (NW Mediterranean Sea). Between 2004 and 2013, these sites were sampled annually during autumn/winter and analyzed for sediment grain‐size and benthic macrofauna composition (species richness, abundance, and biomass). Temporal changes in these descriptors were correlated with two climatic indices (NAO and WeMO indices) and a set of environmental parameters integrated over three different time periods (i.e., whole year, springtime, and wintertime). Our results confirm the occurrence of major temporal changes in the composition of macrobenthic communities within the Gulf of Lions. More specifically, the results indicate that (a) the WeMO appears to be more closely related to benthic macrofauna composition in the Bay of Banyuls‐sur‐Mer than the NAO, (b) winter is a better integration period than spring or the whole year as a proxy for community composition changes, and (c) Rhône River water flow is likely involved in the control of benthic macrofauna composition in the whole Gulf of Lions. The present study highlights the importance of WeMO as a regional proxy, which can be used to evaluate changes in benthic macrofauna linked to climatic variability."
@@ -24,7 +24,7 @@ abstract: "Marine ecosystems worldwide are affected by both natural variation an
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Biodiversity", "Mediterranean Sea", "Thesis"]
+tags: ["Biodiversity", "Mediterranean", "Thesis", "Climate"]
 categories: ["Ecology", "Coast"]
 featured: false
 

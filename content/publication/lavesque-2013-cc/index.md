@@ -16,7 +16,7 @@ publishDate: 2020-04-24T10:18:33+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "BioInvasions Records"
+publication: "*BioInvasions Records*"
 publication_short: ""
 
 abstract: "The Asiatic isopod Paranthura japonica Richardson, 1909 was collected in 2007 in Arcachon Bay (SW France), where the species occurs in a variety of habitats, both in the intertidal and at shallow depths. This species, native to the Sea of Japan, may have been accidentally introduced in Arcachon Bay with oyster transfers or as fouling on ship hulls.."
@@ -24,7 +24,7 @@ abstract: "The Asiatic isopod Paranthura japonica Richardson, 1909 was collected
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Biodiversity", "Bay of Biscay", "Atlantic", "Introduced species"]
+tags: ["Biodiversity", "Bay of Biscay", "Atlantic", "Introduced"]
 categories: ["Ecology", "Coast"]
 featured: false
 

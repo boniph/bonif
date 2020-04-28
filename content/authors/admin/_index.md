@@ -25,7 +25,8 @@ interests:
 - Polychaete systematics and ecology
 - Deep-sea ecology
 - Macrobenthic communities
-- Distribution, diversity, evolution, biogeography, diversification 
+- Diversification, evolution, biogeography
+- Climate change 
 
 education:
   courses:

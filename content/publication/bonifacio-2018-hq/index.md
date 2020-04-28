@@ -16,15 +16,15 @@ publishDate: 2020-04-24T10:18:33+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Sea Research"
+publication: "*Journal of Sea Research*"
 publication_short: ""
 
-abstract: "We achieved a long term (i.e., 1998 vs. 2010) large scale (i.e., whole Gulf of Lions) study of benthic macrofauna composition in the Gulf of Lions based on the resampling of 91 stations located along 21 inshore-offshore transects. Results show that the 3 main benthic communities identified in 1998 were still present in 2010 although their composition changed. Using only year and station of sampling we found a significant space-time interaction explaining changes in macrofaunal community composition, and, in this study, stations differ primarily in terms of depth and distance to the Rhône river mouth. Temporal changes in benthic macrofauna composition were clearly most important at shallow stations (i.e., in the Littoral Fine Sand community) than at deep ones (i.e., Terrigenous Coastal Mud community). These results are in good agreement with the current paradigm according to which climatic oscillations such as NAO (North Atlantic Oscillation) and WeMO (Western Mediterranean Oscillation) are indirectly (i.e., through changes in the frequency of occurrence and the intensity of storms) controlling benthic macrofauna composition in the Gulf of Lions. This hypothesis is further supported by a meta-analysis of changes in the average and maximal yearly abundances of the polychaete Ditrupa arietina. At last, the spatial modelling of 1998 and 2010 benthic macrofauna compositions both suggested a significant effect of Rhône River inputs on the spatial distribution of benthic macrofauna in the Gulf of Lions."
+abstract: "We achieved a long term (i.e., 1998 vs. 2010) large scale (i.e., whole Gulf of Lions) study of benthic macrofauna composition in the Gulf of Lions based on the resampling of 91 stations located along 21 inshore-offshore transects. Results show that the 3 main benthic communities identified in 1998 were still present in 2010 although their composition changed. Using only year and station of sampling we found a significant space-time interaction explaining changes in macrofaunal community composition, and, in this study, stations differ primarily in terms of depth and distance to the Rhône river mouth. Temporal changes in benthic macrofauna composition were clearly most important at shallow stations (i.e., in the Littoral Fine Sand community) than at deep ones (i.e., Terrigenous Coastal Mud community). These results are in good agreement with the current paradigm according to which climatic oscillations such as NAO (North Atlantic Oscillation) and WeMO (Western Mediterranean Oscillation) are indirectly (i.e., through changes in the frequency of occurrence and the intensity of storms) controlling benthic macrofauna composition in the Gulf of Lions. This hypothesis is further supported by a meta-analysis of changes in the average and maximal yearly abundances of the polychaete _Ditrupa arietina_. At last, the spatial modelling of 1998 and 2010 benthic macrofauna compositions both suggested a significant effect of Rhône River inputs on the spatial distribution of benthic macrofauna in the Gulf of Lions."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Biodiversity", "Rhône", "Mediterranean Sea", "Climate change", "Thesis"]
+tags: ["Biodiversity", "Rhône", "Mediterranean", "Climate", "Thesis"]
 categories: ["Ecology", "Coast"]
 featured: false
 

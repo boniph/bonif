@@ -16,10 +16,10 @@ publishDate: 2020-04-24T10:18:33+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Marine Biodiversity"
+publication: "*Marine Biodiversity*"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper presents new records of _Spio symphyta_ Meißner et al., 2011 and _Spio martinensis_ Mesnil, 1896 (‘Polychaeta’: Canalipalpata: Spionidae) from Arcachon Bay (southern Bay of Biscay). For both species the new records represent an extension of their known distributional range. The two species have probably been present in Arcachon Bay for several years but were confused with other species of the genus _Spio_. _Spio symphyta_ was identified at five locations in Arcachon Bay in 2009 and 2013 and _S. martinensis_ at three stations in 2012 and 2013. A detailed and illustrated description of specimens from Arcachon Bay is provided. Important characters of _Spio_ spp. occurring in the area are compared."
 
 # Summary. An optional shortened abstract.
 summary: ""

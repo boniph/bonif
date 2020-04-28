@@ -16,7 +16,7 @@ publishDate: 2020-04-24T10:18:33+02:00
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Deep CCZ Biodiversity Synthesis Workshop Report"
+publication: "*Deep CCZ Biodiversity Synthesis Workshop Report*"
 publication_short: ""
 
 abstract: ""

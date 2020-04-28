@@ -16,7 +16,7 @@ publishDate: 2020-04-24T10:18:33+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Zoological Journal of the Linnean Society"
+publication: "*Zoological Journal of the Linnean Society*"
 publication_short: ""
 
 abstract: "Polynoidae contains ~900 species within 18 subfamilies, some of them restricted to the deep sea. Macellicephalinae is the most diverse among these deep-sea subfamilies. In the abyssal Equatorial Pacific Ocean, the biodiversity of benthic communities is at stake in the Clarion-Clipperton Fracture Zone (CCFZ) owing to increased industrial interest in polymetallic nodules. The records of polychaetes in this region are scarce. Data gathered during the JPI Oceans cruise SO239 made a significant contribution to fill this gap, with five different localities sampled between 4000 and 5000 m depth. Benthic samples collected using an epibenthic sledge or a remotely operated vehicle resulted in a large collection of polynoids.<br>

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The London Workshop on the Biogeography and Connectivity of the Clarion-Clipperton Zone"
-authors: ["Adrian Glover", "Thomas Dahlgren", "Sergio Taboada", "Gordon Paterson", "Helena Wiklund", "Andrea Waeschenbach", "Amber Cobley", "Pedro Martı́nez", "Stefanie Kaiser", "Sarah Schnurr", "Sahar Khodami", "Uwe Raschka", "Daniel Kersken", "Heiko Stuckas", "Lénaı̈ck Menot", "admin", "Ann Vanreusel", "Lara Macheriotou", "Marina Cunha", "Ana Hilario", "Clara Rodrigues", "Ana Colaço", "Pedro Ribeiro", "Magdalena Błażewicz", "Andrew Gooday", "Daniel Jones", "David Billett", "Aurélie Goineau", "Diva Amon", "Craig Smith", "Tasnim Patel", "Kirsty McQuaid", "Ralph Spickermann", "Stefan Brager"]
+authors: ["Adrian Glover", "Thomas Dahlgren", "Sergio Taboada", "Gordon Paterson", "Helena Wiklund", "Andrea Waeschenbach", "Amber Cobley", "Pedro Martínez", "Stefanie Kaiser", "Sarah Schnurr", "Sahar Khodami", "Uwe Raschka", "Daniel Kersken", "Heiko Stuckas", "Lénaïck Menot", "admin", "Ann Vanreusel", "Lara Macheriotou", "Marina Cunha", "Ana Hilario", "Clara Rodrigues", "Ana Colaço", "Pedro Ribeiro", "Magdalena Błażewicz", "Andrew Gooday", "Daniel Jones", "David Billett", "Aurélie Goineau", "Diva Amon", "Craig Smith", "Tasnim Patel", "Kirsty McQuaid", "Ralph Spickermann", "Stefan Brager"]
 date: 2016-09-01
 doi: "https://doi.org/10.3897/rio.2.e10528"
 
@@ -16,7 +16,7 @@ publishDate: 2020-04-24T10:18:33+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Research Ideas and Outcomes"
+publication: "*Research Ideas and Outcomes*"
 publication_short: ""
 
 abstract: "Recent years have seen a rapid increase in survey and sampling expeditions to the Clarion-Clipperton Zone (CCZ) abyssal plain, a vast area of the central Pacific that is currently being actively explored for deep-sea minerals (ISA, 2016). Critical to the development of evidence-based environmental policy in the CCZ are data on the biogeography and connectivity of species at a CCZ-regional level.<br>

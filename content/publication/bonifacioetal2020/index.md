@@ -16,7 +16,7 @@ publishDate: 2020-04-24T10:18:33+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Biogeosciences"
+publication: "*Biogeosciences*"
 publication_short: ""
 
 abstract: "In the abyssal equatorial Pacific Ocean, most of the seafloor of the Clarion-Clipperton Fracture Zone (CCFZ), a 6 million km<sup>2</sup> polymetallic nodule province, has been preempted for future mining. In light of the large environmental footprint that mining would leave and given the diversity and the vulnerability of the abyssal fauna, the International Seabed Authority has implemented a regional management plan that includes the creation of nine Areas of Particular Environmental Interest (APEIs) located at the periphery of the CCFZ. The scientific principles for the design of the APEIs were based on the best – albeit very limited – knowledge of the area. The fauna and habitats in the APEIs are unknown, as are species' ranges and the extent of biodiversity across the CCFZ. <br> 
