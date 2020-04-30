@@ -29,13 +29,15 @@ image:
 projects: []
 ---
 ## Hi, all.
+<br>
+This is my first website for communications about recent scientific discoveries and publications.
 
-This is my first website for communications about recents scientifics discoveries and my publications.  
-Also, I expect it to be possibly a place to meet new people and make interesting discussions.  
-PLease, feel free to expose your thoughts and increase the quality of our discussions :D  
+Also, I expect it to be a place to meet people and make interesting discussions.  
+Please, feel free to give your thoughts and increase the quality of our discussions :D  
 
 
 Thank you for being here,  
 Polo
 
-#staytuned
+#staytuned  
+#polychaetesarecomming
