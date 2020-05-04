@@ -9137,7 +9137,7 @@ nav#navbar-main li.nav-item {
 
 .universal-wrapper {
   width: 90%;
-  max-width: none; }
+  max-width: 90%; }
 
 .project-card {
   align-items: center;
@@ -9148,7 +9148,7 @@ nav#navbar-main li.nav-item {
 .project-container {
   align-items: center;
   justify-items: center;
-  text-align: right;
+  text-align: center;
   margin: auto; }
 
 body {
@@ -9159,31 +9159,3 @@ body {
   justify-items: center;
   text-align: center;
   margin: auto; }
-
-.ml11 {
-  font-weight: 700;
-  font-size: 3.5em; }
-
-.ml11 .text-wrapper {
-  position: relative;
-  display: inline-block;
-  padding-top: 0.1em;
-  padding-right: 0.05em;
-  padding-bottom: 0.15em; }
-
-.ml11 .line {
-  opacity: 0;
-  position: absolute;
-  left: 0;
-  height: 100%;
-  width: 3px;
-  background-color: #fff;
-  transform-origin: 0 50%; }
-
-.ml11 .line1 {
-  top: 0;
-  left: 0; }
-
-.ml11 .letter {
-  display: inline-block;
-  line-height: 1em; }
