@@ -7,9 +7,10 @@ summary: ""
 authors: []
 tags: []
 categories: []
-
-date: 2020-05-06T01:40:05+02:00
-featured: true
+date: 2020-04-30T23:40:05+02:00
+lastmod: 2020-04-30T23:40:05+02:00
+publishDate: 2020-05-06T01:40:05+02:00
+featured: false
 draft: false
 
 # Featured image

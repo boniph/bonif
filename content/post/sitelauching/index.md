@@ -8,8 +8,8 @@ authors: []
 tags: []
 categories: []
 date: 2020-04-26T18:27:40+02:00
-
-featured: true
+lastmod: 2020-04-26T13:27:40+02:00
+featured: false
 draft: false
 
 # Featured image
@@ -30,7 +30,7 @@ projects: []
 ---
 ## Hi, all.
 <br>
-This is my first website for communications about recent scientific discoveries and publications; and to propose my expertise in polychaetes to you as consultant.
+This is my first website for communications about recent scientific discoveries and publications; and to propose my expertise in polychaetes to youas consultant.
 
 Also, I expect it to be a place to meet people and make interesting discussions.  
 Please, feel free to give your thoughts and increase the quality of our discussions :D  
