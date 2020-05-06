@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-04-26T18:27:40+02:00
-lastmod: 2020-04-26T13:27:40+02:00
+
 featured: true
 draft: false
 
