@@ -11,7 +11,7 @@ date: 2020-04-30T23:40:05+02:00
 lastmod: 2020-04-30T23:40:05+02:00
 publishDate: 
 featured: true
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -74,7 +74,7 @@ The head shape of polynoids in shallow waters commonly presents two lateral ante
 
 {{< figure src="shape.jpg" width="600" title="Common head shape of polynoids" lightbox="true" >}}
 
-Currently (April 2020), the number of valid species beloging to Macellicephalinae is 119.  
+Currently (May 2020), the number of valid species beloging to Macellicephalinae is 119.  
 There is so much more out there :P
 
 Moreover, Polynoids are just one among the 42 families of polychaetes found in the CCFZ and threatened by nodules mining operations which are about to start. We need to study them before is too late.  
