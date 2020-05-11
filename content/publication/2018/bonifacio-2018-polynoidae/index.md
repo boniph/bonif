@@ -51,7 +51,7 @@ url_video:
 
 links:
 - name: Altmetric
-  url: https://www.altmetric.com/details/51166734
+  url: https://oxfordjournals.altmetric.com/details/51166734
   icon_pack: 
   icon: 
 

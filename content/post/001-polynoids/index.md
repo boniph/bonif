@@ -7,9 +7,8 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-04-30T23:40:05+02:00
-lastmod: 2020-04-30T23:40:05+02:00
-publishDate: 2020-05-06T01:40:05+02:00
+date: 2020-05-06T18:00:05+02:00
+lastmod: 2020-05-06T18:00:05+02:00
 featured: false
 draft: false
 
@@ -27,7 +26,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["JPI Oceans", "MIDAS", "DeepTaxonomy"]
+projects: ["JPIO", "MIDAS", "DeepTaxonomy"]
 tags: ["Taxonomy", "Systematics", "Polynoidae", "CCFZ", "Pacific", "Geek", "Deep-sea", "JPI Oceans", "Midas", "Remima"]
 
 gallery_item:
@@ -81,7 +80,8 @@ Moreover, Polynoids are just one among the 42 families of polychaetes found in t
 
 This research received funding from the JPI Oceans pilot action 'Ecological Aspects of Deep-Sea Mining', the European Union Seventh Framework Program (FP7/2007–2013) under the MIDAS project and REMIMA.
 
->Bonifácio, P., & Menot, L. (2018). New genera and species from the Equatorial Pacific provide phylogenetic insights into deep-sea Polynoidae (Annelida). Zoological Journal of the Linnean Society, 185(3), 555–635. [http://doi.org/10.1093/zoolinnean/zly063](https://doi.org/10.1093/zoolinnean/zly063)
+#### Reference:  
+Bonifácio, P., & Menot, L. (online 2018 printed 2019). New genera and species from the Equatorial Pacific provide phylogenetic insights into deep-sea Polynoidae (Annelida). Zoological Journal of the Linnean Society, 185(3), 555–635. [http://doi.org/10.1093/zoolinnean/zly063](https://doi.org/10.1093/zoolinnean/zly063)
 
 [PDF {{< icon name="open-access" pack="ai" >}}](https://academic.oup.com/zoolinnean/article-pdf/185/3/555/27987491/zly063.pdf)
 
