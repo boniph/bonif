@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spionidae | Paulo Bonifácio</title>
+    <link>https://bonif.io/tag/spionidae/</link>
+      <atom:link href="https://bonif.io/tag/spionidae/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spionidae</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Paulo Bonifácio</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bonif.io/images/icon_hua69df08bb50819690a3f7af3b76a35f2_65624_512x512_fill_lanczos_center_2.png</url>
+      <title>Spionidae</title>
+      <link>https://bonif.io/tag/spionidae/</link>
+    </image>
+    
+    <item>
+      <title>Molecular analysis and new records of the invasive polychaete Boccardia proboscidea (Annelida: Spionidae)</title>
+      <link>https://bonif.io/publication/2019/radashevsky-2019-jy/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2019/radashevsky-2019-jy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

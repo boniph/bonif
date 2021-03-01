@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ampharetidae | Paulo Bonifácio</title>
+    <link>https://bonif.io/tag/ampharetidae/</link>
+      <atom:link href="https://bonif.io/tag/ampharetidae/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ampharetidae</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Paulo Bonifácio</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bonif.io/images/icon_hua69df08bb50819690a3f7af3b76a35f2_65624_512x512_fill_lanczos_center_2.png</url>
+      <title>Ampharetidae</title>
+      <link>https://bonif.io/tag/ampharetidae/</link>
+    </image>
+    
+    <item>
+      <title>Idunella bacheleti sp. nov., a new Liljeborgiidae species (Crustacea: Amphipoda) from the Capbreton Canyon (Bay of Biscay, NE Atlantic Ocean)</title>
+      <link>https://bonif.io/publication/2020/gouillieux-2020-idunella/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2020/gouillieux-2020-idunella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anobothrus amourouxi sp. nov., a new species of Ampharetidae (Polychaeta) from the Capbreton Canyon (Bay of Biscay, NE Atlantic Ocean)</title>
+      <link>https://bonif.io/publication/2015/bonifacio-2015-kz/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2015/bonifacio-2015-kz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

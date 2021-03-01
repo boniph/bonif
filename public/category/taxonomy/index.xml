@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taxonomy | Paulo Bonifácio</title>
+    <link>https://bonif.io/category/taxonomy/</link>
+      <atom:link href="https://bonif.io/category/taxonomy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taxonomy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Paulo Bonifácio</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bonif.io/images/icon_hua69df08bb50819690a3f7af3b76a35f2_65624_512x512_fill_lanczos_center_2.png</url>
+      <title>Taxonomy</title>
+      <link>https://bonif.io/category/taxonomy/</link>
+    </image>
+    
+    <item>
+      <title>Idunella bacheleti sp. nov., a new Liljeborgiidae species (Crustacea: Amphipoda) from the Capbreton Canyon (Bay of Biscay, NE Atlantic Ocean)</title>
+      <link>https://bonif.io/publication/2020/gouillieux-2020-idunella/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2020/gouillieux-2020-idunella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new species of Pista Malmgren, 1866 (Polychaeta, Terebellidae) from the north-western Mediterranean Sea</title>
+      <link>https://bonif.io/publication/2019/labrune-2019-et/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2019/labrune-2019-et/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New genera and species from the Equatorial Pacific provide phylogenetic insights into deep-sea Polynoidae (Annelida)</title>
+      <link>https://bonif.io/publication/2018/bonifacio-2018-polynoidae/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2018/bonifacio-2018-polynoidae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new species and phylogenetic insights in Hesiospina (Annelida, Hesionidae)</title>
+      <link>https://bonif.io/publication/2018/bonifacio-2018-hesiospina/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2018/bonifacio-2018-hesiospina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new species of the Marphysa sanguinea complex from French waters (Bay of Biscay, NE Atlantic) (Annelida, Eunicidae)</title>
+      <link>https://bonif.io/publication/2017/lavesque-2017-el/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2017/lavesque-2017-el/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loimia ramzega sp. nov., a new giant species of Terebellidae (Polychaeta) from French waters (Brittany, English Channel)</title>
+      <link>https://bonif.io/publication/2017/lavesque-2017-vp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2017/lavesque-2017-vp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anobothrus amourouxi sp. nov., a new species of Ampharetidae (Polychaeta) from the Capbreton Canyon (Bay of Biscay, NE Atlantic Ocean)</title>
+      <link>https://bonif.io/publication/2015/bonifacio-2015-kz/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2015/bonifacio-2015-kz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malmgrenia louiseae sp. nov., a new scale worm species (Polychaeta: Polynoidae) from southern Europe with a key to European Malmgrenia species</title>
+      <link>https://bonif.io/publication/2015/jourde-2015-um/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2015/jourde-2015-um/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new species of Thorecta (Porifera: Demospongiae) from the western Atlantic, with remarks on the taxonomy of the genus</title>
+      <link>https://bonif.io/publication/2013etbefore/santos-2010-ks/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2013etbefore/santos-2010-ks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

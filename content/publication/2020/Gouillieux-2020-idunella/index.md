@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "*Idunella bacheleti* sp. nov., une nouvelle espèce de Liljeborgiidae (Crustacea : Amphipoda) du canyon de Capbreton (golfe de Gascogne, Nord-Est de l’océan Atlantique). Lors de la troisième campagne du projet BIOMIN (BIOMIN-3) dans le canyon de Capbreton (golfe de Gascogne), un mâle isolé d’une nouvelle espèce d’*Idunella* a été recueilli. Cette nouvelle espèce se caractérise par la forme particulière des gnathopodes et le nombre de dents des pléonites. Une clé d’identification des espèces d’*Idunella* de l’Atlantique du Nord-Est et de la Méditerranée est fournie."
 
 # Summary. An optional shortened abstract.
-summary: "The patterns observed in the composition of polychaete assemblages were attributed to variations in food supply at the regional scale and nodule density at the local scale. The high levels of species replacement were mainly driven by rare species, leading to regional species pool estimates between 498 and 240 000 species. The high proportion of singletons seems reflect an under-sampling bias that is currently preventing the assessment of potential biodiversity loss due to nodule mining."
+summary: ""
 
 tags: ["Biodiversity", "Canyon", "Atlantic", "Ampharetidae", "new species", "Bay of Biscay", "Thesis"]
 categories: ["Systematics", "Deep-sea", "Taxonomy"]

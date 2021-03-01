@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Paulo Bonifácio</title>
+    <link>https://bonif.io/talk/</link>
+      <atom:link href="https://bonif.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Paulo Bonifácio</copyright>
+    <image>
+      <url>https://bonif.io/images/icon_hua69df08bb50819690a3f7af3b76a35f2_65624_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://bonif.io/talk/</link>
+    </image>
+    
+  </channel>
+</rss>

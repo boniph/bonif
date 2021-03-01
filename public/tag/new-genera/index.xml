@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>new genera | Paulo Bonifácio</title>
+    <link>https://bonif.io/tag/new-genera/</link>
+      <atom:link href="https://bonif.io/tag/new-genera/index.xml" rel="self" type="application/rss+xml" />
+    <description>new genera</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Paulo Bonifácio</copyright><lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bonif.io/images/icon_hua69df08bb50819690a3f7af3b76a35f2_65624_512x512_fill_lanczos_center_2.png</url>
+      <title>new genera</title>
+      <link>https://bonif.io/tag/new-genera/</link>
+    </image>
+    
+    <item>
+      <title>New genera and species from the Equatorial Pacific provide phylogenetic insights into deep-sea Polynoidae (Annelida)</title>
+      <link>https://bonif.io/publication/2018/bonifacio-2018-polynoidae/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2018/bonifacio-2018-polynoidae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

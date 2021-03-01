@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Climate | Paulo Bonifácio</title>
+    <link>https://bonif.io/tag/climate/</link>
+      <atom:link href="https://bonif.io/tag/climate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Climate</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Paulo Bonifácio</copyright><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bonif.io/images/icon_hua69df08bb50819690a3f7af3b76a35f2_65624_512x512_fill_lanczos_center_2.png</url>
+      <title>Climate</title>
+      <link>https://bonif.io/tag/climate/</link>
+    </image>
+    
+    <item>
+      <title>Climate-driven changes in macrobenthic communities in the Mediterranean Sea: A 10-year study in the Bay of Banyuls-sur-Mer</title>
+      <link>https://bonif.io/publication/2019/bonifacio-2019-ibis/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2019/bonifacio-2019-ibis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-term (1998 vs. 2010) large-scale comparison of soft-bottom benthic macrofauna composition in the Gulf of Lions, NW Mediterranean Sea</title>
+      <link>https://bonif.io/publication/2018/bonifacio-2018-redit/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2018/bonifacio-2018-redit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

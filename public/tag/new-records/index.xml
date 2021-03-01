@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>new records | Paulo Bonifácio</title>
+    <link>https://bonif.io/tag/new-records/</link>
+      <atom:link href="https://bonif.io/tag/new-records/index.xml" rel="self" type="application/rss+xml" />
+    <description>new records</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Paulo Bonifácio</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bonif.io/images/icon_hua69df08bb50819690a3f7af3b76a35f2_65624_512x512_fill_lanczos_center_2.png</url>
+      <title>new records</title>
+      <link>https://bonif.io/tag/new-records/</link>
+    </image>
+    
+    <item>
+      <title>Chaetozone corona (Polychaeta, Cirratulidae) in the Bay of Biscay: a new alien species for the North-east Atlantic waters?</title>
+      <link>https://bonif.io/publication/2017/le-garrec-2017-uk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2017/le-garrec-2017-uk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New records of Spio symphyta and Spio martinensis (‘Polychaeta’: Canalipalpata: Spionidae) from Arcachon Bay (France), NE Atlantic</title>
+      <link>https://bonif.io/publication/2014/lavesque-2014-iv/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2014/lavesque-2014-iv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

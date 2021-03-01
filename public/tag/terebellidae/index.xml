@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terebellidae | Paulo Bonifácio</title>
+    <link>https://bonif.io/tag/terebellidae/</link>
+      <atom:link href="https://bonif.io/tag/terebellidae/index.xml" rel="self" type="application/rss+xml" />
+    <description>Terebellidae</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Paulo Bonifácio</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bonif.io/images/icon_hua69df08bb50819690a3f7af3b76a35f2_65624_512x512_fill_lanczos_center_2.png</url>
+      <title>Terebellidae</title>
+      <link>https://bonif.io/tag/terebellidae/</link>
+    </image>
+    
+    <item>
+      <title>A new species of Pista Malmgren, 1866 (Polychaeta, Terebellidae) from the north-western Mediterranean Sea</title>
+      <link>https://bonif.io/publication/2019/labrune-2019-et/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2019/labrune-2019-et/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loimia ramzega sp. nov., a new giant species of Terebellidae (Polychaeta) from French waters (Brittany, English Channel)</title>
+      <link>https://bonif.io/publication/2017/lavesque-2017-vp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://bonif.io/publication/2017/lavesque-2017-vp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
