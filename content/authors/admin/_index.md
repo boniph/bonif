@@ -15,7 +15,7 @@ role: Marine biologist & Polychaetologist
 # Organizations/Affiliations
 organizations:
 - name: Freelancer
-- name: h-index 8
+- name: h-index 10 (Google Scholar)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
