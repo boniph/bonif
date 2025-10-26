@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "Diversity of deep-sea scale-worms in the CCFZ: the most oligotrophic site is also the most diverse? "
 subtitle: ""

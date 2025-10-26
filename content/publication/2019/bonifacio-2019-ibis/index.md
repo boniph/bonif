@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "Climate-driven changes in macrobenthic communities in the Mediterranean Sea: A 10-year study in the Bay of Banyuls-sur-Mer"
 authors: ["admin", "Antoine Grémare", "Jean-Michel Amouroux", "Céline Labrune"]

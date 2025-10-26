@@ -2,7 +2,7 @@
 
 # Source Themes Academic: Theme updater
 # Checks for available updates and then asks to install any updates.
-# https://sourcethemes.com/academic/
+
 #
 # Command: bash ./update_academic.sh
 
@@ -35,7 +35,7 @@ function do_update () {
   fi
 
   echo
-  echo "View the release notes at: https://sourcethemes.com/academic/updates"
+  echo "View the release notes at:
   echo "If there are breaking changes, the config and/or front matter of content" \
   "may need upgrading by following the steps in the release notes."
 }

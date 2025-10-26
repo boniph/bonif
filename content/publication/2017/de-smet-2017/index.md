@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "The Community Structure of Deep-Sea Macrofauna Associated with Polymetallic Nodules in the Eastern Part of the Clarion-Clipperton Fracture Zone"
 authors: ["Bart De Smet", "Ellen Pape", "Torben Riehl", "admin", "Liesbet Colson", "Ann Vanreusel"]

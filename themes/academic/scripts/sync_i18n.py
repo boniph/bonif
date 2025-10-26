@@ -2,7 +2,7 @@
 
 # Sync Language Packs
 # Script to synchronize each language pack's items against Academic's master pack (English).
-# https://sourcethemes.com/academic/
+# /academic/
 #
 # Prerequisites: pip3 install PyYAML
 #

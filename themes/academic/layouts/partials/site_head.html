@@ -120,7 +120,7 @@
   <link rel="stylesheet" {{ printf "href=\"https://fonts.googleapis.com/css?family=%s&display=swap\"" . | replaceRE "\\|" "%7C" | safeHTMLAttr }}>
   {{ end }}
 
-  {{ $css_comment := printf "/*!* Source Themes Academic v%s (https://sourcethemes.com/academic/) */\n" site.Data.academic.version }}
+  {{ $css_comment := printf "/*!* Source Themes Academic v%s (/academic/) */\n" site.Data.academic.version }}
   {{ $css_bundle_head := $css_comment | resources.FromString "css/bundle-head.css" }}
   {{ $css_options := dict "targetPath" "css/academic.css" }}
   {{- if (in (slice (getenv "HUGO_ENV") hugo.Environment) "production") -}}

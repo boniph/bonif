@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "JPI Oceans project 'MiningImpact' "
 summary: "Jointly analyse the long-term ecological consequences of deep-sea polymetallic nodule mining to provide the knowledge base and inform the development of the international regulation regime of deep sea mining activities"

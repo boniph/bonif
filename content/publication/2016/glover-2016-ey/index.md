@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "The London Workshop on the Biogeography and Connectivity of the Clarion-Clipperton Zone"
 authors: ["Adrian Glover", "Thomas Dahlgren", "Sergio Taboada", "Gordon Paterson", "Helena Wiklund", "Andrea Waeschenbach", "Amber Cobley", "Pedro Martínez", "Stefanie Kaiser", "Sarah Schnurr", "Sahar Khodami", "Uwe Raschka", "Daniel Kersken", "Heiko Stuckas", "Lénaïck Menot", "admin", "Ann Vanreusel", "Lara Macheriotou", "Marina Cunha", "Ana Hilario", "Clara Rodrigues", "Ana Colaço", "Pedro Ribeiro", "Magdalena Błażewicz", "Andrew Gooday", "Daniel Jones", "David Billett", "Aurélie Goineau", "Diva Amon", "Craig Smith", "Tasnim Patel", "Kirsty McQuaid", "Ralph Spickermann", "Stefan Brager"]

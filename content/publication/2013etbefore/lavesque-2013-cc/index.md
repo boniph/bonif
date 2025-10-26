@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "Recent discovery of Paranthura japonica Richardson, 1909 (Crustacea: Isopoda: Paranthuridae) in European marine waters (Arcachon Bay, Bay of Biscay"
 authors: ["Nicolas Lavesque", "Jean-Claude Sorbe", "Guy Bachelet", "Benoit Gouillieux", "Xavier de Montaudouin", "admin", "Hugues Blanchet", "Sophie Dubois"]

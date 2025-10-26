@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "High diversity and pan-oceanic distribution of deep-sea polychaetes: Prionospio and Aurospio (Annelida: Spionidae) in the Atlantic and Pacific Ocean"
 authors: ["Theresa Guggolz", "Karin Meißner", "Martin Schwentner", "Thomas G Dahlgren", "Helena Wiklund", "admin", "Angelika Brandt"]

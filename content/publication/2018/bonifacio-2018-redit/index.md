@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "Long-term (1998 vs. 2010) large-scale comparison of soft-bottom benthic macrofauna composition in the Gulf of Lions, NW Mediterranean Sea"
 authors: ["admin", "Antoine Grémare", "Olivier Gauthier", "Alicia Romero-Ramirez", "Sabrina Bichon", "Jean-Michel Amouroux", "Céline Labrune"]

@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "Idunella bacheleti sp. nov., a new Liljeborgiidae species (Crustacea: Amphipoda) from the Capbreton Canyon (Bay of Biscay, NE Atlantic Ocean)" 
 authors: ["Benoit Gouillieux", "admin", "Nicolas Lavesque"]

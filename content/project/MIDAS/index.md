@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "MIDAS"
 summary: "It was aimed at building the knowledge base to underpin sound environmental policies in relation to deep-sea exploitation"

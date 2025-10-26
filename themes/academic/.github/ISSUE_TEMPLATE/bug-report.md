@@ -13,7 +13,7 @@ We use GitHub only for bug reports and feature requests - it's our project manag
 
 For **help** and **questions**, please join our **[community chat](https://spectrum.chat/academic)** or use the **[forum](https://discourse.gohugo.io/c/themes)** 🚑.
 
-Also, you can search and browse the extensive [Academic](https://sourcethemes.com/academic/docs/) and [Hugo](https://gohugo.io/documentation/) **documentation**.
+Also, you can search and browse the extensive [Academic](/academic/docs/) and [Hugo](https://gohugo.io/documentation/) **documentation**.
 
 For questions on _Blogdown_, please reach out to the [Blogdown community](https://github.com/rstudio/blogdown).
 

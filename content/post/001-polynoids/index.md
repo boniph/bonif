@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "New genera and species of polynoids provide phylogenetic insights into deep-sea scale-worms"
 subtitle: ""

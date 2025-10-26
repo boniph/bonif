@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "Study of the present state and of recent temporal changes in the benthic macrofauna composition of Gulf of Lions soft-bottoms macrobenthic communities, NW Mediterranean"
 summary: ""

@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "Regional and latitudinal patterns of soft-bottom macrobenthic invertebrates along French coasts: Results from the RESOMAR database"
 authors: ["Régis K. Gallon", "Nicolas Lavesque", "Jacques Grall", "Céline Labrune", "Antoine Gremare", "Guy Bachelet", "Hugues Blanchet", "admin", "Vincent M.P. Bouchet", "Jean-Claude Dauvin", "Nicolas Desroy", "Franck Gentil", "Laurent Guerin", "Céline Houbin", "Jérôme Jourde", "Sandrine Laurand", "Michel {Le Duff}", "Vincent {Le Garrec}", "Xavier {de Montaudouin}", "Frédéric Olivier", "Francis Orvain", "Pierre-Guy Sauriau", "Éric Thiebaut", "Olivier Gauthier"]

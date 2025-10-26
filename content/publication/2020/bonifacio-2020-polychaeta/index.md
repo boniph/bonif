@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "Alpha and beta diversity patterns of polychaete assemblages across the nodule province of the eastern Clarion-Clipperton Fracture Zone (equatorial Pacific)" 
 authors: ["admin", "Pedro Martínez Arbizu", "Lénaick Menot"]

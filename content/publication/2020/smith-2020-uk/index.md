@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "SEDIMENT MACROFAUNA – A synthesis of sediment macrofaunal biodiversity in the Clarion-Clipperton Zone"
 authors: ["Craig R Smith", "Travis Washburn", "Lénaïck Menot", "admin", "Ellen Pape", "Lupita Bribiesca-Contreras", "Thomas Dahlgren", "Tomohiko Fukushima", "Adrian Glover", "Se Jon Ju", "Ok Hwan Yu"]

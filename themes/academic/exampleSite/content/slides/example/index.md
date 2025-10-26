@@ -15,7 +15,7 @@ slides:
 
 # Create slides in Markdown with Academic
 
-[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+[Academic](/academic/) | [Documentation](/academic/docs/managing-content/#create-slides)
 
 ---
 
@@ -163,4 +163,4 @@ Create `assets/css/reveal_custom.css` with:
 
 [Ask](https://spectrum.chat/academic)
 
-[Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+[Documentation](/academic/docs/managing-content/#create-slides)

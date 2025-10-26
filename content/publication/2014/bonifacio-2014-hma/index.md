@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "Spatiotemporal changes in surface sediment characteristics and benthic macrofauna composition off the Rhône River in relation to its hydrological regime"
 authors: ["admin", "Solveig Bourgeois", "Céline Labrune", "Jean-Michel Amouroux", "Karine Escoubeyrou", "Roselyne Buscail", "Alicia Romero-Ramirez", "François Lantoine", "Gilles Vétion", "Sabrina Bichon", "Martin Desmalades", "Béatrice Rivière", "Bruno Deflandre", "Antoine Grémare"]

@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "New records of Spio symphyta and Spio martinensis (‘Polychaeta’: Canalipalpata: Spionidae) from Arcachon Bay (France), NE Atlantic"
 authors: ["Nicolas Lavesque", "admin", "Karin Meißner", "Hugues Blanchet", "Benoit Gouillieux", "Sophie Dubois", "Guy Bachelet"]

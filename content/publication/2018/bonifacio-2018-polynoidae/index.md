@@ -1,5 +1,5 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: /academic/docs/managing-content/
 
 title: "New genera and species from the Equatorial Pacific provide phylogenetic insights into deep-sea Polynoidae (Annelida)"
 authors: ["admin", "Lénaïck Menot"]

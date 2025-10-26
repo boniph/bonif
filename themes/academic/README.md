@@ -1,34 +1,34 @@
-<p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
+<p align="center"><a href="/academic/" target="_blank" rel="noopener"><img src="/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
-# [Academic](https://sourcethemes.com/academic/): the website builder for [Hugo](https://gohugo.io)
+# [Academic](/academic/): the website builder for [Hugo](https://gohugo.io)
 
 ### The Page Builder to Easily Create Professional Websites :pencil2: :newspaper: :rocket:
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 50 _widgets_, _themes_, and _language packs_ included!**
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
+[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](/academic/#expo) of personal, project, and business sites.
 
-- 👉 [**Get Started**](https://sourcethemes.com/academic/docs/install/)
-- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
+- 👉 [**Get Started**](/academic/docs/install/)
+- 📚 [View the **documentation**](/academic/docs/)
 - 💬 [Chat with the **Academic community**](https://spectrum.chat/academic) or [**Hugo community**](https://discourse.gohugo.io)
 - 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
 - 💡 [Request a **feature** or report a **bug**](https://github.com/gcushen/hugo-academic/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
+- ⬆️ **Updating?** View the [Update Guide](/academic/docs/update/) and [Release Notes](/academic/updates/)
 - :heart: **Support development** of Academic:
   - ☕️ [**Donate a coffee**](https://paypal.me/cushen)
   - 💵 [Become a backer on **Patreon**](https://www.patreon.com/cushen)
   - 🖼️ [Decorate your laptop or journal with an Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
   - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
-  - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
+  - :woman_technologist: [**Contribute**](/academic/docs/contribute/)
 
 [![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
 
 **Key features:**
 
-- **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
+- **Page builder** - Create *anything* with [**widgets**](/academic/docs/page-builder/) and [**elements**](/academic/docs/writing-markdown-latex/)
 - **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://sourcethemes.com/academic/themes/)
+- **Create content** in [**Markdown**](/academic/docs/writing-markdown-latex/), [**Jupyter**](/academic/docs/jupyter/), or [**RStudio**](/academic/docs/install/#install-with-rstudio)
+- **Plugin System** - Fully customizable [**color** and **font themes**](/academic/themes/)
 - **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
 - **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
 - **Beautiful Site** - Simple and refreshing one page design
@@ -45,15 +45,15 @@
 
 Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to set your preferred mode!
 
-Choose a stunning theme for your site and [customize it](https://sourcethemes.com/academic/docs/customization/#custom-theme) to your liking:
+Choose a stunning theme for your site and [customize it](/academic/docs/customization/#custom-theme) to your liking:
 
-[![Themes](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/themes.png)](https://sourcethemes.com/academic/themes/)
+[![Themes](https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/themes.png)](/academic/themes/)
 
-[Browse more themes...](https://sourcethemes.com/academic/themes/)
+[Browse more themes...](/academic/themes/)
 
 ## The Future of Technical Content Writing
 
-[![Writing technical content](https://sourcethemes.com/academic/img/docs/writing-technical-content.gif)](https://academic-demo.netlify.com/post/writing-technical-content/)
+[![Writing technical content](/academic/img/docs/writing-technical-content.gif)](https://academic-demo.netlify.com/post/writing-technical-content/)
 
 ## Ecosystem
 
@@ -73,7 +73,7 @@ You can choose from one of the following four methods to install:
 
 [Install Academic with Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart)
   * One-click install of Academic creates an `academic-kickstart` repository in your GitHub or GitLab account
-  * Netlify will provide you with a customizable URL to access your new site, [or get your own domain](https://sourcethemes.com/academic/docs/domain/)
+  * Netlify will provide you with a customizable URL to access your new site, [or get your own domain](/academic/docs/domain/)
   * Shortly after editing content in your repository, your site will automatically update
   * Optionally, to edit your site in a [Markdown editor](https://www.typora.io) on your computer, perform the steps in the [*Install with Git*](#install-with-git) section below
 
@@ -114,7 +114,7 @@ Install:
 
 ### Install with RStudio
 
-[Install Academic with RStudio](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+[Install Academic with RStudio](/academic/docs/install/#install-with-rstudio)
 
 ## Demo content
 
@@ -128,13 +128,13 @@ cp -av themes/academic/exampleSite/* .
 
 ## Get Started
 
-[View the guide to Personalize and Deploy your new site](https://sourcethemes.com/academic/docs/get-started/).
+[View the guide to Personalize and Deploy your new site](/academic/docs/get-started/).
 
 ## Updating
 
-[View the Update Guide](https://sourcethemes.com/academic/docs/update/).
+[View the Update Guide](/academic/docs/update/).
 
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) and follow [@source_themes](https://twitter.com/source_themes) on Twitter to help keep track of [updates](https://sourcethemes.com/academic/updates).
+Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) and follow [@source_themes](https://twitter.com/source_themes) on Twitter to help keep track of [updates](/academic/updates).
 
 ## License
 
